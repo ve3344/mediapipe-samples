@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.google.mediapipe.examples.facelandmarker.app-mergeDebugResources-48:/layout/face_blendshapes_result.xml",
+        "source": "com.google.mediapipe.examples.facelandmarker.app-main-51:/layout/face_blendshapes_result.xml"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.facelandmarker.app-mergeDebugResources-48:/layout/fragment_gallery.xml",
+        "source": "com.google.mediapipe.examples.facelandmarker.app-main-51:/layout/fragment_gallery.xml"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.facelandmarker.app-mergeDebugResources-48:/layout/activity_main.xml",
+        "source": "com.google.mediapipe.examples.facelandmarker.app-main-51:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.facelandmarker.app-mergeDebugResources-48:/layout/fragment_camera.xml",
+        "source": "com.google.mediapipe.examples.facelandmarker.app-main-51:/layout/fragment_camera.xml"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.facelandmarker.app-mergeDebugResources-48:/layout/info_bottom_sheet.xml",
+        "source": "com.google.mediapipe.examples.facelandmarker.app-main-51:/layout/info_bottom_sheet.xml"
+    }
+]
