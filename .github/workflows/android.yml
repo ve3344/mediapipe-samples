@@ -24,6 +24,8 @@ jobs:
       run: cd examples/face_landmarker/android&& chmod +x gradlew
     - name: Build with Gradle
       run: cd examples/face_landmarker/android&& ./gradlew assembleDebug
+    - name: Get apk
+      run: mv examples/face_landmarker/android/build/outputs examples/face_landmarker/android/
     - uses: LarchLiu/actions-save-files@v1.0.3
       with:
         github_token: ${{ github.token }}
